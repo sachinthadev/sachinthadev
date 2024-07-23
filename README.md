@@ -13,6 +13,10 @@
 - 💞️ I’m looking to collaborate on Hard working , Inovations and Friendly ...
 - 📫 How to reach me ...
 
+<br/>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinthadev&show_icons=true&locale=en&layout=compact" alt="gangula-sandaru" /></p>
+
 <div align="center">  
 <kbd><a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a></kbd>  
 &nbsp;
@@ -68,9 +72,6 @@
 </div>  
 
 
-<br/>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gangula-sandaru&show_icons=true&locale=en&layout=compact" alt="gangula-sandaru" /></p>
 
 
 <!---
