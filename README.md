@@ -68,8 +68,9 @@
 </div>  
 
 
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gangula-sandaru&show_icons=true&locale=en&layout=compact" alt="gangula-sandaru" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gangula-sandaru&show_icons=true&locale=en&layout=compact" alt="gangula-sandaru" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gangula-sandaru&show_icons=true&locale=en" alt="gangula-sandaru" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gangula-sandaru&" alt="gangula-sandaru" /></p>
