@@ -70,7 +70,7 @@
 &nbsp;
 <kbd><a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="40" /></a>  </kbd>
 </div>  
-<br/>![my2](https://github.com/user-attachments/assets/eef971e7-c5ba-4297-a53e-a00cc1fe0a5e)
+![my2](https://github.com/user-attachments/assets/eef971e7-c5ba-4297-a53e-a00cc1fe0a5e)
 
 
 
