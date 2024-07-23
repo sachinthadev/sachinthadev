@@ -16,7 +16,7 @@
 <br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinthadev&show_icons=true&locale=en&layout=compact" alt="Sahan Sachintha" /></p>
-
+<br/>
 <div align="center">  
 <kbd><a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a></kbd>  
 &nbsp;
@@ -70,7 +70,11 @@
 &nbsp;
 <kbd><a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="40" /></a>  </kbd>
 </div>  
+ 
+<br/>
 
+
+<br/>
 ![MasterHead](https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif)
 
 
