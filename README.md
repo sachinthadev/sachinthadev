@@ -70,7 +70,7 @@
 &nbsp;
 <kbd><a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="40" /></a>  </kbd>
 </div>  
-![my2](https://github.com/user-attachments/assets/eef971e7-c5ba-4297-a53e-a00cc1fe0a5e)
+![my2]([https://github.com/user-attachments/assets/eef971e7-c5ba-4297-a53e-a00cc1fe0a5e](https://camo.githubusercontent.com/a88c7abd1ce1462df5e8a6c0dc7a2c541678d340f9515e3c6216c21f218aa066/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62352f64332f36392f62356433363932613837323933366430356133643737306535333237633665632e676966))
 
 
 
