@@ -70,8 +70,9 @@
 &nbsp;
 <kbd><a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="40" /></a>  </kbd>
 </div>  
-<br/>
-![MasterHead](https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif)
+<br/>![my2](https://github.com/user-attachments/assets/eef971e7-c5ba-4297-a53e-a00cc1fe0a5e)
+
+
 
 
 
