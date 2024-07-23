@@ -66,6 +66,14 @@
 &nbsp;
 <kbd><a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="40" /></a>  </kbd>
 </div>  
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gangula-sandaru&show_icons=true&locale=en&layout=compact" alt="gangula-sandaru" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gangula-sandaru&show_icons=true&locale=en" alt="gangula-sandaru" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gangula-sandaru&" alt="gangula-sandaru" /></p>
+
 <!---
 sachinthadev/sachinthadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
