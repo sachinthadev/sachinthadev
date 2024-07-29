@@ -71,8 +71,9 @@
 <kbd><a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="40" /></a>  </kbd>
 </div>  
 
-<br/>
-![MasterHead](https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif)
+<br/>![00-1](https://github.com/user-attachments/assets/4108ecfe-23ef-4b4f-a619-e6227fe3f02c)
+
+
 
 
 
